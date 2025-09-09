@@ -1,12 +1,27 @@
-# React + Vite
+# Weather-Now
+A responsive weather forecast application built in **React** and styled using **Material UI**. It dynamically adapts visuals based on weather conditions and gives users quick access to weather news.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Demo
+[Weather-Now App](https://weather-now-eight-bay.vercel.app/)
 
-Currently, two official plugins are available:
+### 🌤️ Home Page
+![Weather App Screenshot](./screenshots/Screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- **Celsius ↔ Fahrenheit toggle**
+- **Dynamic backgrounds & icons** (hot, cold, rainy)
+- **Weather details** (temp, humidity, feels-like, min/max)
+- **Link to latest weather news** for the searched city
+- Built with **Material UI** for sleek UI/UX
 
-## Expanding the ESLint configuration
+## Tech Stack
+- React.js
+- Material UI
+- Weather API (e.g., OpenWeatherMap)
+- Unsplash for imagery
+- Hosted on **Vercel**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Author & Repo
+Author: Ankit (Ankit-kTiwari08)
+Created by **Ankit (Ankit-kTiwari08)**
+GitHub: [github.com/Ankit-kTiwari08](https://github.com/Ankit-kTiwari08)

@@ -22,6 +22,6 @@ A responsive weather forecast application built in **React** and styled using **
 - Hosted on **Vercel**
 
 ## Author & Repo
-Author: Ankit (Ankit-kTiwari08)
-Created by **Ankit (Ankit-kTiwari08)**
-GitHub: [github.com/Ankit-kTiwari08](https://github.com/Ankit-kTiwari08)
+Author: Ankit (LeadWithAnkit)
+Created by **Ankit (LeadWithAnkit)**
+GitHub: [github.com/LeadWithAnkit](https://github.com/LeadWithAnkit)
